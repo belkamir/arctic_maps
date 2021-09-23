@@ -1,0 +1,11 @@
+
+.geojson-toggle{
+  position: absolute;
+  top: 40px;
+  right: 20px;
+  z-index: 1000;
+  margin-top: 20px;
+  font-size: 14px;
+  padding: 4px;
+  border-radius: 3px;
+}
