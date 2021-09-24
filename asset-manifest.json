@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/arctic_maps/static/css/main.a3fa9926.chunk.css",
-    "main.js": "/arctic_maps/static/js/main.a1dfb092.chunk.js",
-    "main.js.map": "/arctic_maps/static/js/main.a1dfb092.chunk.js.map",
+    "main.js": "/arctic_maps/static/js/main.8071ad30.chunk.js",
+    "main.js.map": "/arctic_maps/static/js/main.8071ad30.chunk.js.map",
     "runtime-main.js": "/arctic_maps/static/js/runtime-main.31e08fdb.js",
     "runtime-main.js.map": "/arctic_maps/static/js/runtime-main.31e08fdb.js.map",
     "static/css/2.9628c809.chunk.css": "/arctic_maps/static/css/2.9628c809.chunk.css",
     "static/js/2.11083818.chunk.js": "/arctic_maps/static/js/2.11083818.chunk.js",
     "static/js/2.11083818.chunk.js.map": "/arctic_maps/static/js/2.11083818.chunk.js.map",
     "index.html": "/arctic_maps/index.html",
-    "precache-manifest.f217f3a95255855d78328a5a064ee9b9.js": "/arctic_maps/precache-manifest.f217f3a95255855d78328a5a064ee9b9.js",
+    "precache-manifest.511dc158e2165c017e348ce3deaece56.js": "/arctic_maps/precache-manifest.511dc158e2165c017e348ce3deaece56.js",
     "service-worker.js": "/arctic_maps/service-worker.js",
     "static/css/2.9628c809.chunk.css.map": "/arctic_maps/static/css/2.9628c809.chunk.css.map",
     "static/css/main.a3fa9926.chunk.css.map": "/arctic_maps/static/css/main.a3fa9926.chunk.css.map",
@@ -20,6 +20,6 @@
     "static/css/2.9628c809.chunk.css",
     "static/js/2.11083818.chunk.js",
     "static/css/main.a3fa9926.chunk.css",
-    "static/js/main.a1dfb092.chunk.js"
+    "static/js/main.8071ad30.chunk.js"
   ]
 }

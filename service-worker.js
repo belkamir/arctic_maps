@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/arctic_maps/precache-manifest.f217f3a95255855d78328a5a064ee9b9.js"
+  "/arctic_maps/precache-manifest.511dc158e2165c017e348ce3deaece56.js"
 );
 
 self.addEventListener('message', (event) => {
